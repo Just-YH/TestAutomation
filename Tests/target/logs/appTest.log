@@ -39,3 +39,91 @@
 2016-12-17 19:56:20,702 INFO  [main] add performed
 2016-12-17 20:06:25,326 INFO  [main] Browser started
 2016-12-17 20:06:35,390 INFO  [main] add performed
+2016-12-27 13:05:35,290 INFO  [main] Browser started
+2016-12-27 13:05:40,900 INFO  [main] Login page opened
+2016-12-27 13:05:41,189 INFO  [main] Login performed
+2016-12-27 13:06:07,820 INFO  [main] Browser started
+2016-12-27 13:06:12,728 INFO  [main] Login page opened
+2016-12-27 13:06:12,930 INFO  [main] Login performed
+2016-12-27 13:06:44,680 INFO  [main] Browser started
+2016-12-27 13:06:49,547 INFO  [main] Login page opened
+2016-12-27 13:06:49,763 INFO  [main] Login performed
+2016-12-27 13:07:06,695 INFO  [main] Browser started
+2016-12-27 13:07:15,508 INFO  [main] Login page opened
+2016-12-27 13:07:15,768 INFO  [main] Login performed
+2016-12-27 13:08:00,870 INFO  [main] Browser started
+2016-12-27 13:08:05,930 INFO  [main] add performed
+2016-12-27 13:08:38,211 INFO  [main] Browser started
+2016-12-27 13:08:43,447 INFO  [main] add performed
+2016-12-27 13:08:49,099 INFO  [main] Login page opened
+2016-12-27 13:08:49,287 INFO  [main] Login performed
+2016-12-27 13:09:35,888 INFO  [main] Browser started
+2016-12-27 13:09:41,684 INFO  [main] add performed
+2016-12-27 13:09:47,898 INFO  [main] Login page opened
+2016-12-27 13:09:48,045 INFO  [main] Login performed
+2016-12-27 13:23:16,411 INFO  [main] Browser started
+2016-12-27 13:23:21,213 INFO  [main] add performed
+2016-12-27 14:44:45,499 INFO  [main] Browser started
+2016-12-27 14:44:50,661 INFO  [main] Login page opened
+2016-12-27 14:44:50,889 INFO  [main] Login performed
+2016-12-27 14:45:33,681 INFO  [main] Browser started
+2016-12-27 14:45:38,645 INFO  [main] add performed
+2016-12-27 14:58:46,535 INFO  [main] Browser started
+2016-12-27 14:58:51,514 INFO  [main] add performed
+2016-12-27 15:15:57,293 INFO  [main] Browser started
+2016-12-27 15:16:32,593 INFO  [main] Browser started
+2016-12-27 15:16:37,741 INFO  [main] add performed
+2016-12-27 15:17:43,353 INFO  [main] Browser started
+2016-12-27 15:17:51,761 INFO  [main] add performed
+2016-12-27 15:22:08,678 INFO  [main] Browser started
+2016-12-27 15:22:14,003 INFO  [main] add performed
+2016-12-27 15:23:01,631 INFO  [main] Browser started
+2016-12-27 15:23:06,956 INFO  [main] add performed
+2016-12-27 15:23:14,502 INFO  [main] del performed
+2016-12-27 15:25:32,008 INFO  [main] Browser started
+2016-12-27 15:25:37,083 INFO  [main] add performed
+2016-12-27 15:25:46,690 INFO  [main] del performed
+2016-12-27 15:32:56,421 INFO  [main] Browser started
+2016-12-27 15:33:03,328 INFO  [main] Login page opened
+2016-12-27 15:33:03,481 INFO  [main] Login performed
+2016-12-27 15:33:22,327 INFO  [main] Browser started
+2016-12-27 15:33:36,000 INFO  [main] Browser started
+2016-12-27 15:34:03,151 INFO  [main] add performed
+2016-12-27 15:34:12,867 INFO  [main] del performed
+2016-12-27 15:34:18,338 INFO  [main] Login page opened
+2016-12-27 15:34:18,499 INFO  [main] Login performed
+2016-12-27 15:35:15,869 INFO  [main] Browser started
+2016-12-27 15:36:17,918 INFO  [main] Browser started
+2016-12-27 15:36:24,392 INFO  [main] add performed
+2016-12-27 15:36:54,194 INFO  [main] Login page opened
+2016-12-27 15:36:54,371 INFO  [main] Login performed
+2016-12-27 15:37:56,233 INFO  [main] Browser started
+2016-12-27 15:38:05,564 INFO  [main] add performed
+2016-12-27 15:38:15,180 INFO  [main] del performed
+2016-12-27 15:38:20,635 INFO  [main] Login page opened
+2016-12-27 15:38:20,766 INFO  [main] Login performed
+2016-12-27 15:42:39,394 INFO  [main] Browser started
+2016-12-27 15:42:44,987 INFO  [main] add performed
+2016-12-27 15:42:54,682 INFO  [main] del performed
+2016-12-27 15:43:01,208 INFO  [main] Login page opened
+2016-12-27 15:43:01,368 INFO  [main] Login performed
+2016-12-27 16:08:41,016 INFO  [main] Browser started
+2016-12-27 16:10:16,656 INFO  [main] Browser started
+2016-12-27 16:22:10,272 INFO  [main] Browser started
+2016-12-27 16:38:22,057 INFO  [main] Browser started
+2016-12-27 16:43:55,755 INFO  [main] Browser started
+2016-12-27 16:44:32,485 INFO  [main] Browser started
+2016-12-27 16:44:52,759 INFO  [main] add performed
+2016-12-27 16:45:03,342 INFO  [main] del performed
+2016-12-27 16:45:09,009 INFO  [main] Login page opened
+2016-12-27 16:45:09,470 INFO  [main] Login performed
+2016-12-27 18:00:11,074 INFO  [main] Browser started
+2016-12-27 18:17:34,337 INFO  [main] Browser started
+2016-12-27 18:23:14,429 INFO  [main] Browser started
+2016-12-27 18:32:51,263 INFO  [main] Browser started
+2016-12-27 18:33:22,176 INFO  [main] Browser started
+2016-12-27 18:34:08,335 INFO  [main] Browser started
+2016-12-27 18:34:54,419 INFO  [main] Browser started
+2016-12-27 18:35:31,858 INFO  [main] Browser started
+2016-12-27 18:36:33,962 INFO  [main] Browser started
+2016-12-27 18:37:12,723 INFO  [main] Browser started
